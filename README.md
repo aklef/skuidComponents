@@ -1,7 +1,10 @@
-# mblazonryComponents #
+# PREFACE #
 
-Home of mBlazonry's primary custom component source!
+The code hosted here is a showpiece of my past work, with permission from my old boss. The two most notable "components" have dedicated info pages on a separate, still available, "support" repo, linked here below:
 
+https://github.com/mblazonry/mBlazonrySupport/blob/master/Components/TEMPLATE.md
+and
+https://github.com/mblazonry/mBlazonrySupport/blob/master/Components/TIMER.md
 
 
 # Includes: #
